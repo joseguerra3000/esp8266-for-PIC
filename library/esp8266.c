@@ -2,10 +2,7 @@
   C Library for ESP8266 Wifi module with PIC microcontrollers
   Copyright (C) 2020 Jose Guerra <joseguerracarmenate@gmail.com> 
   
-  This file is part of "C library for ESP8266 Wifi module with PIC microcontrollers".
-  
-  "C library for ESP8266 Wifi module with PIC microcontrollers" 
-  is free software: you can redistribute it and/or modify
+  This library is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
   the Free Software Foundation, either version 3 of the License, or
   (at your option) any later version.

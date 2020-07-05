@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/examples/Echo_Server/echo-server.X/build/
+/examples/Echo_Server/echo-server.X/dist/
